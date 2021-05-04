@@ -1,0 +1,14 @@
+{
+  "name": "7ccedfd5b605c64e",
+  "main": "7ccedfd5b605c64e@423.js",
+  "version": "423.0.0",
+  "homepage": "https://observablehq.com/d/7ccedfd5b605c64e",
+  "author": {
+    "name": "mayrarosas12",
+    "url": "https://observablehq.com/@mayrarosas12"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
